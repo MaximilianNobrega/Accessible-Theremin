@@ -18,7 +18,7 @@ I served as the primary embedded software developer, writing and refining most o
 - Audio generation using the Mozzi Arduino audio library
 - Smooth pitch transitions through software-based frequency interpolation
 - External audio amplification and speaker output
-- Sensor operation over an approximately 0–60 cm hand-distance range
+- Ultrasonic hand-distance sensing, with pitch and volume control ranges configured to 50 cm and 35 cm, respectively
 
 ## My Contributions
 
@@ -35,7 +35,7 @@ One of the primary challenges was maintaining continuous audio output while perf
 Ultrasonic measurement functions and LCD communication introduced blocking operations that interfered with audio generation.
 
 To improve performance, I:
-- Reduced LCD update frequency to approximately 2 Hz.
+- Reduced LCD update frequency to approximately 1 Hz to limit interference with real-time audio processing.
 - Refined sensor measurement and audio processing behavior.
 - Implemented frequency smoothing to improve transitions between pitches.
 - Integrated Mozzi audio processing with the sensor and display functionality.
