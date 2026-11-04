@@ -110,11 +110,19 @@ The completed instrument features two ultrasonic distance sensors for independen
 
 Demonstration of touchless pitch and volume control
 during the end-of-semester engineering expo.
+
 ## Firmware
 
-The Arduino C++ firmware will be included in this repository.
+[View Arduino Firmware](AccessibleTheremin/AccessibleTheremin.ino)
 
-The software integrates ultrasonic sensor measurements, frequency mapping, Mozzi audio generation, pitch smoothing, and LCD communication.
+The firmware was developed in C++ using the Mozzi audio synthesis library. It processes two ultrasonic distance sensors to independently control pitch and volume, applies smoothing for responsive audio output, and displays the generated frequency on a 16×2 I²C LCD.
+
+Key features include:
+- Real-time sine-wave audio synthesis using Mozzi
+- Independent ultrasonic pitch and volume control
+- Frequency and volume smoothing
+- Alternating sensor measurements
+- Numerical frequency display on the LCD
 
 ## Project Documentation
 
