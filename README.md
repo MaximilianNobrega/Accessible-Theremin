@@ -98,7 +98,11 @@ Software refinements reduced interruptions associated with sensor measurements a
 
 ## Project Images
 
-*Photographs of the completed Theremin, hardware assembly, and LCD frequency display will be added here.*
+### Completed Accessible Theremin
+
+![Completed Accessible Theremin](theremin-complete.png)
+
+The completed instrument features two ultrasonic distance sensors for independent pitch and volume control, a front-mounted LCD frequency display, and a custom enclosure combining a wooden top with 3D-printed components.
 
 ## Firmware
 
