@@ -108,9 +108,9 @@ The software integrates ultrasonic sensor measurements, frequency mapping, Mozzi
 
 ## Project Documentation
 
-The final engineering report documents the system design, implementation, testing methodology, and results.
+[View Final Engineering Report](Accessible-Theremin-Final-Report.pdf)
 
-*Project documentation will be added here.*
+The report documents the system architecture, electrical design, software development, testing procedures, and final results.
 
 ## Project Attribution
 
