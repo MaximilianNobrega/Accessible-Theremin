@@ -96,8 +96,6 @@ The ultrasonic sensors provided usable hand-distance measurements over approxima
 
 Software refinements reduced interruptions associated with sensor measurements and LCD updates, resulting in smoother pitch transitions and more continuous audio output.
 
-## Project Images
-
 ### Completed Accessible Theremin
 
 ![Completed Accessible Theremin](theremin-complete.png)
