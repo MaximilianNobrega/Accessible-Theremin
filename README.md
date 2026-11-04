@@ -104,6 +104,12 @@ Software refinements reduced interruptions associated with sensor measurements a
 
 The completed instrument features two ultrasonic distance sensors for independent pitch and volume control, a front-mounted LCD frequency display, and a custom enclosure combining a wooden top with 3D-printed components.
 
+### Live Demonstration — Engineering Expo
+
+[Watch the Accessible Theremin Demonstration](https://youtu.be/jLiqFXi_BBI?si=bNk2seuxYnwKEZ_w)
+
+Demonstration of touchless pitch and volume control
+during the end-of-semester engineering expo.
 ## Firmware
 
 The Arduino C++ firmware will be included in this repository.
